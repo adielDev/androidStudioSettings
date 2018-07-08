@@ -1,0 +1,18 @@
+<templateSet group="databinding">
+  <template name="pcm" value="public $RetuenType$ $Name$ ($Input$){&#10;        $END$&#10;}" description="public class method" toReformat="false" toShortenFQNames="true">
+    <variable name="RetuenType" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Input" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="bv" value="private $TYPE$ $varName$;&#10;&#10;@android.databinding.Bindable&#10;public $TYPE$ get$VarName$(){&#10;    return $varName$;&#10;&#10;}&#10;&#10;@Bindable&#10;public void set$VarName$($TYPE$ $varName$) {&#10;    this.$varName$ = $varName$;&#10;    notifyPropertyChanged(BR.$varName$);&#10;}&#10;" description="bonded var" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="varName" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VarName" expression="capitalize(String)" defaultValue="$varName$" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

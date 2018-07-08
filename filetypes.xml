@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="piramid_string" type="PLAIN_TEXT" />
+      <mapping pattern="tagparentcategories" type="PLAIN_TEXT" />
+      <mapping pattern="followers_action" type="PLAIN_TEXT" />
+      <mapping pattern="long_string" type="PLAIN_TEXT" />
+      <mapping pattern="piramide_string_down" type="PLAIN_TEXT" />
+      <mapping pattern="short_string" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
