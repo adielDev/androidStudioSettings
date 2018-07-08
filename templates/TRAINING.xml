@@ -1,5 +1,5 @@
 <templateSet group="TRAINING">
-  <template name="adi1" value="int $VAR1$&#10;        $var2$" toReformat="false" toShortenFQNames="true">
+  <template name="adi1" value="int $VAR1$&#10;        $var2$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
