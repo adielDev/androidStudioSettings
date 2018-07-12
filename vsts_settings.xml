@@ -4,8 +4,25 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://ananasnetzarim.visualstudio.com" />
-          <option name="serverUri" value="https://ananasnetzarim.visualstudio.com" />
+          <option name="uri" value="https://AdiAndSami.visualstudio.com" />
+          <option name="serverUri" value="https://AdiAndSami.visualstudio.com" />
+          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;26ceae2e-50d0-400e-8af6-6aea05ee2552&quot;,&quot;name&quot;:&quot;AdiAndSami&quot;,&quot;url&quot;:&quot;https://adiandsami.visualstudio.com/_apis/projectCollections/26ceae2e-50d0-400e-8af6-6aea05ee2552&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;2c43a610-a333-4e35-9c1e-da4c22b56ed6&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adiandsami.visualstudio.com/_apis/projects/2c43a610-a333-4e35-9c1e-da4c22b56ed6&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://adiandsami.visualstudio.com/MyFirstProject/_git/mapbox-plugins-android" />
+          <option name="serverUri" value="https://AdiAndSami.visualstudio.com" />
+          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;26ceae2e-50d0-400e-8af6-6aea05ee2552&quot;,&quot;name&quot;:&quot;AdiAndSami&quot;,&quot;url&quot;:&quot;https://adiandsami.visualstudio.com/_apis/projectCollections/26ceae2e-50d0-400e-8af6-6aea05ee2552&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;2c43a610-a333-4e35-9c1e-da4c22b56ed6&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adiandsami.visualstudio.com/_apis/projects/2c43a610-a333-4e35-9c1e-da4c22b56ed6&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;6b38df5e-2865-4857-8832-983da48c91b1&quot;,&quot;name&quot;:&quot;mapbox-plugins-android&quot;,&quot;remoteUrl&quot;:&quot;https://adiandsami.visualstudio.com/MyFirstProject/_git/mapbox-plugins-android&quot;,&quot;url&quot;:&quot;https://adiandsami.visualstudio.com/2c43a610-a333-4e35-9c1e-da4c22b56ed6/_apis/git/repositories/6b38df5e-2865-4857-8832-983da48c91b1&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;2c43a610-a333-4e35-9c1e-da4c22b56ed6&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adiandsami.visualstudio.com/_apis/projects/2c43a610-a333-4e35-9c1e-da4c22b56ed6&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
@@ -19,15 +36,6 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865268,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/develop&quot;,&quot;id&quot;:&quot;70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;name&quot;:&quot;android&quot;,&quot;remoteUrl&quot;:&quot;https://recntrek.visualstudio.com/DefaultCollection/RecNTrek/_git/android&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/git/repositories/70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865268,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;}}" />
         </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://ananasnetzarim.visualstudio.com/Ananas1/_git/myprojects" />
-          <option name="serverUri" value="https://ananasnetzarim.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;02273146-edc9-443f-8a3d-abd7722202ae&quot;,&quot;name&quot;:&quot;ananasnetzarim&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projectCollections/02273146-edc9-443f-8a3d-abd7722202ae&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;7640dced-f38a-4303-908b-a257f7ae5af1&quot;,&quot;name&quot;:&quot;Ananas1&quot;,&quot;revision&quot;:18,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/7640dced-f38a-4303-908b-a257f7ae5af1&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;19e9f755-fe9f-4a07-8fdd-f2f3cd23248f&quot;,&quot;name&quot;:&quot;myprojects&quot;,&quot;remoteUrl&quot;:&quot;https://ananasnetzarim.visualstudio.com/Ananas1/_git/myprojects&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/git/repositories/19e9f755-fe9f-4a07-8fdd-f2f3cd23248f&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;7640dced-f38a-4303-908b-a257f7ae5af1&quot;,&quot;name&quot;:&quot;Ananas1&quot;,&quot;revision&quot;:18,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/7640dced-f38a-4303-908b-a257f7ae5af1&quot;}}" />
-        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -38,7 +46,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//ananasnetzarim.visualstudio.com/ananas1/_git/myprojects" />
+          <option name="value" value="//adiandsami.visualstudio.com/myfirstproject/_git/mapbox-plugins-android" />
         </PropertyState>
       </array>
     </option>
