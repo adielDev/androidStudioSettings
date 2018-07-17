@@ -7,6 +7,7 @@
       <mapping pattern="long_string" type="PLAIN_TEXT" />
       <mapping pattern="piramide_string_down" type="PLAIN_TEXT" />
       <mapping pattern="short_string" type="PLAIN_TEXT" />
+      <mapping pattern="long_single_string" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
