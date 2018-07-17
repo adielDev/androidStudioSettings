@@ -1,0 +1,8 @@
+<templateSet group="AndroidXML_TOOLS">
+  <template name="too_text" value="tools:text=&quot;$END$&quot;" description="add tool text layout mock" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
