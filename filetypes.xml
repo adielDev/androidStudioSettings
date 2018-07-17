@@ -8,6 +8,7 @@
       <mapping pattern="short_string" type="PLAIN_TEXT" />
       <mapping pattern="long_string" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping pattern="long_single_string" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
