@@ -35,12 +35,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/mapbox/mapbox-navigation-android.git" />
+          <option name="url" value="https://github.com/sromku/android-storage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects/mapbox" />
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects/training1" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
