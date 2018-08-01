@@ -5,4 +5,9 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="too_txt_color" value="tools:textColor=&quot;@color/$END$&quot;" description="tools text color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
