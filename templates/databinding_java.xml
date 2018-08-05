@@ -1,0 +1,7 @@
+<templateSet group="databinding_java">
+  <template name="bind_waiting" value="private boolean isWaiting;&#10;    &#10;    @Bindable&#10;    public boolean getIsWaiting(){&#10;        return isWaiting;&#10;    &#10;    }&#10;    &#10;    @Bindable&#10;    public void setIsWaiting(boolean isWaiting) {&#10;        this.isWaiting = isWaiting;&#10;        notifyPropertyChanged(BR.isWaiting);&#10;    }&#10;    " description="create abservable boolean" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
