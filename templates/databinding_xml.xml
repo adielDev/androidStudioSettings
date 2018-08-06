@@ -20,7 +20,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="bind_waiting" value="android:visibility=&quot;@{$END$? View.VISIBLE : View.GONE}&quot;" description="manage pb visibility" toReformat="false" toShortenFQNames="true">
+  <template name="bind_visibility" value="android:visibility=&quot;@{$END$? View.VISIBLE : View.GONE}&quot;" description="manage  visibility" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
