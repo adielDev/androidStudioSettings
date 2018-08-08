@@ -1,0 +1,7 @@
+<templateSet group="Android_test">
+  <template name="test new" value="@Test&#10;public void $END$() {&#10;    initLock();&#10;    releaseLock();&#10;    lock();&#10;}&#10;" description="generate test with lock" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
