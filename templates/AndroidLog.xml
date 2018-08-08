@@ -1,0 +1,7 @@
+<templateSet group="AndroidLog">
+  <template name="logA" value="Log.d(&quot;tag_temp&quot;, &quot;erase me if you can see me \n : $END$ &quot;);" description="temp log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
