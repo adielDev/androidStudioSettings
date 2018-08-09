@@ -30,4 +30,9 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="bind_pb_waiting" value="&lt;ProgressBar&#10;android:layout_gravity=&quot;center&quot;&#10;android:layout_width=&quot;wrap_content&quot;&#10;android:layout_height=&quot;wrap_content&quot;&#10;android:visibility=&quot;@{ ? View.VISIBLE : View.GONE}&quot; /&gt;&#10;" description="generate pb with waiting visibility condition" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
