@@ -9,4 +9,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="bind_bool" value="private boolean $varName$;&#10;&#10;@Bindable&#10;public void set$VarName$(boolean $varName$) {&#10;    this.$varName$ = $varName$;&#10;    notifyPropertyChanged(BR.$varName$);&#10;}&#10;@android.databinding.Bindable&#10;public boolean get$VarName$(){&#10;    return $varName$;&#10;&#10;}" description="create boolean var bind" toReformat="false" toShortenFQNames="true">
+    <variable name="varName" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VarName" expression="capitalize(String)" defaultValue="$varName$" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
