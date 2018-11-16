@@ -83,6 +83,6 @@
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects/training1" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="MIGRATED" value="true" />
   </component>
 </application>
