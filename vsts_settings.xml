@@ -4,20 +4,12 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://recntrek.visualstudio.com" />
-          <option name="serverUri" value="https://recntrek.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://recntrek.visualstudio.com/DefaultCollection/RecNTrek/_git/android" />
           <option name="serverUri" value="https://recntrek.visualstudio.com" />
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d67736ad-93c5-401b-a698-583d3970fa53&quot;,&quot;name&quot;:&quot;recntrek&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projectCollections/d67736ad-93c5-401b-a698-583d3970fa53&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865331,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;name&quot;:&quot;android&quot;,&quot;remoteUrl&quot;:&quot;https://recntrek.visualstudio.com/RecNTrek/_git/android&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/git/repositories/70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865331,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;},&quot;_links&quot;:null}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;name&quot;:&quot;android&quot;,&quot;remoteUrl&quot;:&quot;https://recntrek.visualstudio.com/RecNTrek/_git/android&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/git/repositories/70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865331,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;}}" />
         </ServerContextState>
       </array>
     </option>
