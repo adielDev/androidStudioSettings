@@ -4,6 +4,15 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://ananasnetzarim.visualstudio.com/Midbarie/_git/android" />
+          <option name="serverUri" value="https://ananasnetzarim.visualstudio.com" />
+          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;02273146-edc9-443f-8a3d-abd7722202ae&quot;,&quot;name&quot;:&quot;ananasnetzarim&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projectCollections/02273146-edc9-443f-8a3d-abd7722202ae&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;1edeb046-6ed7-45f2-ba60-b443b34915c6&quot;,&quot;name&quot;:&quot;android&quot;,&quot;remoteUrl&quot;:&quot;https://ananasnetzarim.visualstudio.com/Midbarie/_git/android&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/git/repositories/1edeb046-6ed7-45f2-ba60-b443b34915c6&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://recntrek.visualstudio.com/DefaultCollection/RecNTrek/_git/android" />
           <option name="serverUri" value="https://recntrek.visualstudio.com" />
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
