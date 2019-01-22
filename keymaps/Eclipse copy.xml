@@ -1,0 +1,14 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodotaLeanSearchCrossRefAction" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="TabList">
+    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
+  </action>
+</keymap>
