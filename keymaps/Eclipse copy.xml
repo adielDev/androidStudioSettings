@@ -1,6 +1,27 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="CIDR.Lang.IntroduceDefine" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift e" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl begin" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="TabList">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
 </keymap>
