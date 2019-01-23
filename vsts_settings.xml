@@ -4,28 +4,11 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://ananasnetzarim.visualstudio.com" />
-          <option name="serverUri" value="https://ananasnetzarim.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;02273146-edc9-443f-8a3d-abd7722202ae&quot;,&quot;name&quot;:&quot;ananasnetzarim&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projectCollections/02273146-edc9-443f-8a3d-abd7722202ae&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:28,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://recntrek.visualstudio.com" />
           <option name="serverUri" value="https://recntrek.visualstudio.com" />
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://ananasnetzarim.visualstudio.com/Midbarie/_git/GoogleServices" />
-          <option name="serverUri" value="https://ananasnetzarim.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;02273146-edc9-443f-8a3d-abd7722202ae&quot;,&quot;name&quot;:&quot;ananasnetzarim&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projectCollections/02273146-edc9-443f-8a3d-abd7722202ae&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:28,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;62c276b5-05dc-476e-9835-50f2a72d9eb0&quot;,&quot;name&quot;:&quot;GoogleServices&quot;,&quot;remoteUrl&quot;:&quot;https://ananasnetzarim.visualstudio.com/Midbarie/_git/GoogleServices&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/0a558e75-822d-4aee-8358-d42bc47a0473/_apis/git/repositories/62c276b5-05dc-476e-9835-50f2a72d9eb0&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:28,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
