@@ -2,6 +2,9 @@
   <action id="ActivatePreviewToolWindow">
     <keyboard-shortcut first-keystroke="alt printscreen" />
   </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f5" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl printscreen" />
