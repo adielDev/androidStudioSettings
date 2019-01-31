@@ -1,18 +1,9 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f7" />
-    <keyboard-shortcut first-keystroke="shift back_quote" />
-  </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="shift e" />
-  </action>
+  <action id="CallHierarchy" />
+  <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangesView.ShelveSilently" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl a" />
-  </action>
-  <action id="ShowContent">
-    <keyboard-shortcut first-keystroke="alt down" />
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
 </keymap>
