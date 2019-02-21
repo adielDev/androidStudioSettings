@@ -4,15 +4,6 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://androidinfra.visualstudio.com/Udemy.DependecyInjection/_git/DependecyInjection" />
-          <option name="serverUri" value="https://androidinfra.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6cab66fc-3580-4a88-967a-ede71b343702&quot;,&quot;name&quot;:&quot;androidinfra&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projectCollections/6cab66fc-3580-4a88-967a-ede71b343702&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;,&quot;name&quot;:&quot;Udemy.DependecyInjection&quot;,&quot;revision&quot;:132,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projects/9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;05e9605a-5552-485a-b25a-df6c5aa1b55b&quot;,&quot;name&quot;:&quot;DependecyInjection&quot;,&quot;remoteUrl&quot;:&quot;https://androidinfra.visualstudio.com/Udemy.DependecyInjection/_git/DependecyInjection&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/9053eacf-0003-4d6c-8aa8-f918274e22d2/_apis/git/repositories/05e9605a-5552-485a-b25a-df6c5aa1b55b&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;,&quot;name&quot;:&quot;Udemy.DependecyInjection&quot;,&quot;revision&quot;:132,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projects/9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://recntrek.visualstudio.com" />
           <option name="serverUri" value="https://recntrek.visualstudio.com" />
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
@@ -21,21 +12,12 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
-          <option name="uri" value="https://androidinfra.visualstudio.com/Udemy.DependecyInjection/_git/Arch" />
-          <option name="serverUri" value="https://androidinfra.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6cab66fc-3580-4a88-967a-ede71b343702&quot;,&quot;name&quot;:&quot;androidinfra&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projectCollections/6cab66fc-3580-4a88-967a-ede71b343702&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;,&quot;name&quot;:&quot;Udemy.DependecyInjection&quot;,&quot;revision&quot;:133,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projects/9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;0af79af4-cedb-44d5-858a-8d54b6954806&quot;,&quot;name&quot;:&quot;Arch&quot;,&quot;remoteUrl&quot;:&quot;https://androidinfra.visualstudio.com/Udemy.DependecyInjection/_git/Arch&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/9053eacf-0003-4d6c-8aa8-f918274e22d2/_apis/git/repositories/0af79af4-cedb-44d5-858a-8d54b6954806&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;,&quot;name&quot;:&quot;Udemy.DependecyInjection&quot;,&quot;revision&quot;:133,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projects/9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
           <option name="uri" value="https://ananasnetzarim.visualstudio.com/Midbarie/_git/GoogleServices" />
           <option name="serverUri" value="https://ananasnetzarim.visualstudio.com" />
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;02273146-edc9-443f-8a3d-abd7722202ae&quot;,&quot;name&quot;:&quot;ananasnetzarim&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projectCollections/02273146-edc9-443f-8a3d-abd7722202ae&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:29,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;62c276b5-05dc-476e-9835-50f2a72d9eb0&quot;,&quot;name&quot;:&quot;GoogleServices&quot;,&quot;remoteUrl&quot;:&quot;https://ananasnetzarim.visualstudio.com/Midbarie/_git/GoogleServices&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/0a558e75-822d-4aee-8358-d42bc47a0473/_apis/git/repositories/62c276b5-05dc-476e-9835-50f2a72d9eb0&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:29,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;},&quot;_links&quot;:null}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;62c276b5-05dc-476e-9835-50f2a72d9eb0&quot;,&quot;name&quot;:&quot;GoogleServices&quot;,&quot;remoteUrl&quot;:&quot;https://ananasnetzarim.visualstudio.com/Midbarie/_git/GoogleServices&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/0a558e75-822d-4aee-8358-d42bc47a0473/_apis/git/repositories/62c276b5-05dc-476e-9835-50f2a72d9eb0&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0a558e75-822d-4aee-8358-d42bc47a0473&quot;,&quot;name&quot;:&quot;Midbarie&quot;,&quot;revision&quot;:29,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://ananasnetzarim.visualstudio.com/_apis/projects/0a558e75-822d-4aee-8358-d42bc47a0473&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -44,15 +26,7 @@
           <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d67736ad-93c5-401b-a698-583d3970fa53&quot;,&quot;name&quot;:&quot;recntrek&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projectCollections/d67736ad-93c5-401b-a698-583d3970fa53&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865340,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/develop&quot;,&quot;id&quot;:&quot;70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;name&quot;:&quot;android&quot;,&quot;remoteUrl&quot;:&quot;https://recntrek.visualstudio.com/DefaultCollection/RecNTrek/_git/android&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/fb36edc5-43dc-4b03-a681-31a168a5820b/_apis/git/repositories/70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865340,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://androidinfra.visualstudio.com" />
-          <option name="serverUri" value="https://androidinfra.visualstudio.com" />
-          <option name="userId" value="84183f95-ac8c-4e14-9de1-011ffe4469a1" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;6cab66fc-3580-4a88-967a-ede71b343702&quot;,&quot;name&quot;:&quot;androidinfra&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projectCollections/6cab66fc-3580-4a88-967a-ede71b343702&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;,&quot;name&quot;:&quot;Udemy.DependecyInjection&quot;,&quot;revision&quot;:133,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://androidinfra.visualstudio.com/_apis/projects/9053eacf-0003-4d6c-8aa8-f918274e22d2&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/develop&quot;,&quot;id&quot;:&quot;70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;name&quot;:&quot;android&quot;,&quot;remoteUrl&quot;:&quot;https://recntrek.visualstudio.com/DefaultCollection/RecNTrek/_git/android&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/fb36edc5-43dc-4b03-a681-31a168a5820b/_apis/git/repositories/70ba9115-6c30-4e68-865c-cd49970f2a41&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;fb36edc5-43dc-4b03-a681-31a168a5820b&quot;,&quot;name&quot;:&quot;RecNTrek&quot;,&quot;revision&quot;:57865340,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://recntrek.visualstudio.com/_apis/projects/fb36edc5-43dc-4b03-a681-31a168a5820b&quot;}}" />
         </ServerContextState>
       </array>
     </option>
