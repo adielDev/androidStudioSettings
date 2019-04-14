@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../recNTrek/src/main/java/com/recntrek/views/picandvidrvdisplayer/PicPagerRvView.java [recNTrek]'" />
-    <option name="defaultScopeName" value="File '.../recNTrek/src/main/java/com/recntrek/views/picandvidrvdisplayer/PicPagerRvView.java [recNTrek]'" />
+    <option name="customScope" value="File '.../recNTrek/src/main/java/com/recntrek/activities/siteDetail/SiteDetailPresenter.java [recNTrek]'" />
+    <option name="defaultScopeName" value="File '.../recNTrek/src/main/java/com/recntrek/activities/siteDetail/SiteDetailPresenter.java [recNTrek]'" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../recNTrek/src/main/java/com/recntrek/views/picandvidrvdisplayer/PicPagerRvView.java [recNTrek]'" />
+    <option name="SEARCH_SCOPE" value="File '.../recNTrek/src/main/java/com/recntrek/activities/siteDetail/SiteDetailPresenter.java [recNTrek]'" />
     <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
