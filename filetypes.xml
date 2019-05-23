@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="ods" type="Native" />
       <mapping pattern="piramid_string" type="PLAIN_TEXT" />
       <mapping pattern="user_ids" type="PLAIN_TEXT" />
       <mapping pattern="long_single_string" type="PLAIN_TEXT" />
