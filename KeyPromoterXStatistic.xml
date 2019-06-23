@@ -46,7 +46,7 @@
           <IdeaActionID>ActivatePreviewToolWindow</IdeaActionID>
           <ShortCut>'Alt+Print Screen'</ShortCut>
           <Description>Preview</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
