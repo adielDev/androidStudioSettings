@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>262</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivatePreviewToolWindow</IdeaActionID>
           <ShortCut>'Alt+Print Screen'</ShortCut>
           <Description>Preview</Description>
-          <Count>44</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -142,7 +142,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'PLay ground'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'recNTrek'">
