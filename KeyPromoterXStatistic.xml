@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>353</Count>
+          <Count>356</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand">
