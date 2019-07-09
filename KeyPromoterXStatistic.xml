@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Attach Debugger to Android Process">
         <Item>
           <IdeaActionID>AndroidConnectDebuggerAction</IdeaActionID>
@@ -14,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>60</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -46,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>659</Count>
+          <Count>675</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -54,7 +62,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -102,7 +110,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview">
@@ -110,7 +118,7 @@
           <IdeaActionID>ActivatePreviewToolWindow</IdeaActionID>
           <ShortCut>'Alt+Print Screen'</ShortCut>
           <Description>Preview</Description>
-          <Count>85</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -118,7 +126,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -190,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'PLay ground'</Description>
-          <Count>117</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'recNTrek'">
@@ -198,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -278,7 +286,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>63</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
     </option>
