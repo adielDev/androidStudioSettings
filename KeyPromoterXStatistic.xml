@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>741</Count>
+          <Count>744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
