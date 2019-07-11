@@ -14,7 +14,7 @@
           <IdeaActionID>AndroidConnectDebuggerAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F5'</ShortCut>
           <Description>Attach Debugger to Android Process</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -46,7 +46,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+F5'</ShortCut>
           <Description>Debug 'PLay ground'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>772</Count>
+          <Count>796</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview">
@@ -150,7 +150,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>45</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'PLay ground'</Description>
-          <Count>137</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'recNTrek'">
@@ -238,7 +238,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F10' or 'Shift+F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>65</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Android Debugger (8600)'">
@@ -246,7 +246,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'Android Debugger (8600)'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PLay ground'">
@@ -270,7 +270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>49</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -286,7 +286,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>75</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
     </option>
