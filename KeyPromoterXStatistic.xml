@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>870</Count>
+          <Count>871</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -118,7 +118,7 @@
           <IdeaActionID>ActivatePreviewToolWindow</IdeaActionID>
           <ShortCut>'Alt+Print Screen'</ShortCut>
           <Description>Preview</Description>
-          <Count>95</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
