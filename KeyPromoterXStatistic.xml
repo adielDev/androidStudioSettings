@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1106</Count>
+          <Count>1107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview">
@@ -161,6 +161,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'GeneralActivity'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'HtmlActivity'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PLay ground'">
