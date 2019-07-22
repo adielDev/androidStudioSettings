@@ -134,7 +134,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -142,6 +142,14 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Alt+F8' or 'Ctrl+Alt+F'</ShortCut>
           <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -238,7 +246,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>147</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -326,7 +334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
     </option>
