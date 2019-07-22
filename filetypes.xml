@@ -4,6 +4,7 @@
       <mapping ext="ods" type="Native" />
       <mapping pattern="piramid_string" type="PLAIN_TEXT" />
       <mapping pattern="user_ids" type="PLAIN_TEXT" />
+      <mapping pattern="trek_ids" type="PLAIN_TEXT" />
       <mapping pattern="long_single_string" type="PLAIN_TEXT" />
       <mapping pattern="site_ids" type="PLAIN_TEXT" />
       <mapping pattern="followers_action" type="PLAIN_TEXT" />

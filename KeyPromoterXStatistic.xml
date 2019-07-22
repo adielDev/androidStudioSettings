@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1149</Count>
+          <Count>1156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview">
@@ -222,7 +222,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'PLay ground'</Description>
-          <Count>208</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RvWithHeader2'">
