@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1156</Count>
+          <Count>1159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'PLay ground'</Description>
-          <Count>209</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RvWithHeader2'">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>130</Count>
+          <Count>131</Count>
         </Item>
       </Statistic>
     </option>
