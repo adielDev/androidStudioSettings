@@ -11,4 +11,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="logee" value="timber.log.Timber.e(TAG, &quot;$METHOD_NAME$: $content$&quot;, $exception$);" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="exception" expression="" defaultValue="e" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
