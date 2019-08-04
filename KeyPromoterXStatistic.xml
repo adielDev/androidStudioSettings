@@ -222,7 +222,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>278</Count>
+          <Count>280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -414,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Android Debugger (8601)'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'PLay ground'">
@@ -454,7 +454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>179</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
