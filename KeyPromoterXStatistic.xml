@@ -358,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>268</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
