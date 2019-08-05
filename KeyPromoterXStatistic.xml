@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>202</Count>
+          <Count>203</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1594</Count>
+          <Count>1601</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -158,7 +158,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -198,7 +198,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -470,7 +470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>186</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
     </option>
