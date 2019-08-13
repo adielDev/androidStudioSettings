@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1878</Count>
+          <Count>1880</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -318,7 +318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'PLay ground'</Description>
-          <Count>246</Count>
+          <Count>247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RvWithFooter'">
