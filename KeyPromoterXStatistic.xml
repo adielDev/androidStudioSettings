@@ -374,7 +374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>320</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -494,7 +494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>239</Count>
+          <Count>240</Count>
         </Item>
       </Statistic>
     </option>
