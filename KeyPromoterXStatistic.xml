@@ -14,7 +14,7 @@
           <IdeaActionID>AndroidConnectDebuggerAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F5'</ShortCut>
           <Description>Attach Debugger to Android Process</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -222,7 +222,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>341</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -406,7 +406,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F10' or 'Shift+F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>369</Count>
+          <Count>371</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActivitySetting'">
@@ -422,7 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'Android Debugger (8600)'</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Android Debugger (8601)'">
@@ -470,7 +470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>210</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -486,7 +486,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>235</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
     </option>
