@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>305</Count>
+          <Count>306</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2216</Count>
+          <Count>2218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -271,6 +271,22 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'ActivityOnBoarding'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ActivityOnBoardingVi...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ActivityOnBoardingVi...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ActivityOnBoardingViewImpl'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ActivityOnBoardingViewImpl'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivitySetting'">
@@ -558,7 +574,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>271</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
     </option>
