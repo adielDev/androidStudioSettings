@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>189</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -286,7 +286,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ActivityOnBoardingViewImpl'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivitySetting'">
