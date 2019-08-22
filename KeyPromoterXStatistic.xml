@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2226</Count>
+          <Count>2227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -286,7 +286,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ActivityOnBoardingViewImpl'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivitySetting'">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>272</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
     </option>
