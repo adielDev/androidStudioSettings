@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>318</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2276</Count>
+          <Count>2280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -438,7 +438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>389</Count>
+          <Count>391</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -478,7 +478,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F10' or 'Shift+F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>404</Count>
+          <Count>406</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ActivitySetting'">
@@ -510,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Android Debugger (8601)'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Android Debugger (8603)'">
@@ -566,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>261</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>284</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
     </option>
