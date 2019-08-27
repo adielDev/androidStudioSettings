@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>334</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2364</Count>
+          <Count>2369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -438,7 +438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>406</Count>
+          <Count>407</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>296</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
     </option>
