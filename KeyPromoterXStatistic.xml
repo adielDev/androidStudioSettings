@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2405</Count>
+          <Count>2416</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -166,7 +166,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -241,6 +241,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -287,6 +295,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ActivityOnBoardingViewImpl'</Description>
           <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ActivityRegViewImpl'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ActivityRegViewImpl'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ActivitySetting'">
@@ -446,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'recNTrek'</Description>
-          <Count>440</Count>
+          <Count>441</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
