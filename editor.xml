@@ -6,4 +6,16 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\bdevelop_only\b.*">
+      <option name="FOREGROUND" value="bf2737" />
+      <option name="BACKGROUND" value="ffffff" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="972694" />
+      <option name="ERROR_STRIPE_COLOR" value="e31a28" />
+      <option name="EFFECT_TYPE" value="4" />
+    </pattern>
+  </component>
 </application>
